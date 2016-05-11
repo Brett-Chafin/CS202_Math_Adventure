@@ -1,0 +1,7 @@
+Your character is traveling through the woods and needs to overcome obsticals using your amazing math talent! Make sure to answer by writting out your numbers (Ex. one, two, three) all lower case. Are you ready to begain? (yes/no)
+Your Characters is walking down a trail, and it begins to get dark. You need to find out how long you have till it gets dark in order to set up camp on time. If its 5 o'clock now, and it gets dark at 8, how many more hours do you have?
+You need to get up high to see how the end of the forest it. You see a tree with ten branched. If you steped on every other branch, how many step would it take to reach the top?
+Oh no! You guessed wrong and now its to late to set up camp! You at lease neeed a tourch to survive the night. If a two stick tourch burns for an hour, how long will a four stick tourch burn for?
+You see that your not far from the end of the forest! If the edge of the forest is 10 miles away. If you walk 2 miles per hour, how long will it take to reach the end?
+Somehow you survived the night! You assume is four miles to the edge of the forest. If you walk at 1 mile per hour, how long will it take you to reach the edge?
+You have finally made it out of the forest! Congratz! Play again?
